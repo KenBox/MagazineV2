@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>AD93A364-50F9-479F-B2D1-56C647772B72</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Magazine_V2</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>7FFD6558-3AAE-465C-83F8-477231254F2B</key>
+		<string>https://github.com/KenBox/MagazineV2.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Magazine_V2.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>7FFD6558-3AAE-465C-83F8-477231254F2B</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/KenBox/MagazineV2.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>7FFD6558-3AAE-465C-83F8-477231254F2B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>7FFD6558-3AAE-465C-83F8-477231254F2B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>MagazineV2</string>
+		</dict>
+	</array>
+</dict>
+</plist>
